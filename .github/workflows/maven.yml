@@ -40,7 +40,7 @@ concurrency:
 
 # --- Global defaults ---
 env:
-  JAVA_VERSION: "17"
+  JAVA_VERSION: "21"
   JAVA_DISTRIBUTION: "temurin"
   MAVEN-OPTS: "-Xmx1024m"
   APP_NAME: "inventory-service"
