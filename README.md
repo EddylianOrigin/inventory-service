@@ -10,6 +10,8 @@ Before to start, you will need to install these:
 
 - Docker ::> https://www.docker.com/get-started/
 
+- Postgre ::> https://www.postgresql.org/download/
+
 ## Necessary Steps to get access to the project 
 - First of all, clone the project on your local device using the git command :
 
