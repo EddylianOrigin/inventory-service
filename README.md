@@ -25,16 +25,24 @@ Before to start, you will need to install these:
 
 ## Install Spring Dependancy and run the project:
 
+- Run PostgreSql( pgadmin or a Terminal instance) first
+
+- login
+  
+- add required setting in project like username and password 
+  
 Run this command on the opened terminal:
 - Build the project (download dependencies, compile the code, and run tests by default)
   ```
-  mvn clean install
+  mvn clean install 
   ```
-
 - Run the Project (Spring Boot application from the main class annotated with @SpringBootApplication will be executed.)
   ```
-  mvn spring-boot:run
+  mvn spring-boot:run 
   ```
+
+(In case of error message try to debug with your IDE)
+  ...in progress
 
 ## Learn more
 
