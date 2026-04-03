@@ -15,11 +15,11 @@ Before to start, you will need to install these:
 
   * Git clone "url of the repository"
 
-- Open the project using VScode or another python IDE of your choice.
+- Open the project using VScode or another JAVA IDE of your choice.
   
 - Open the terminal in the IDE to the path corresponding to the project.
 
-## Install Django: Use pip to install Django within the virtual environment:
+## Install Spring Dependancy:
 
 Run this command on the opened terminal:
 - Build the project (download dependencies, compile the code, and run tests by default)
