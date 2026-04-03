@@ -32,4 +32,6 @@ Run this command on the opened terminal:
 
 To learn Spring, check out the Documentation::> https://spring.io/quickstart
 
+To learn Graphhql::> https://graphql.org/learn/#learn-graphql
+
 Feel free to extend the project and let me know about any changes or progress you've made by offering me some like on the project repo just for fun. :)
